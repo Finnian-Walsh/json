@@ -1,0 +1,3 @@
+[submodule "Libraries/ChunkedList"]
+	path = Libraries/ChunkedList
+	url = https://github.com/Finnian-Walsh/ChunkedList.git
