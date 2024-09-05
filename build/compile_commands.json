@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/finni/Programming/JetBrains/CLion Projects/JSON/build",
+  "command": "D:\\mingw64\\bin\\c++.exe -I\"D:/finni/Programming/JetBrains/CLion Projects/JSON/src\" -I\"D:/finni/Programming/JetBrains/CLion Projects/JSON/include\" -g -std=gnu++20 -fmodules-ts -fmodule-mapper=CMakeFiles\\JSON.dir\\src\\json.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\JSON.dir\\src\\json.cpp.obj -c \"D:\\finni\\Programming\\JetBrains\\CLion Projects\\JSON\\src\\json.cpp\"",
+  "file": "D:\\finni\\Programming\\JetBrains\\CLion Projects\\JSON\\src\\json.cpp",
+  "output": "CMakeFiles\\JSON.dir\\src\\json.cpp.obj"
+}
+]
