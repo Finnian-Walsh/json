@@ -1,0 +1,23 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "D:/finni/Programming/JetBrains/CLion Projects/JSON/build",
+	"dir-cur-src" : "D:/finni/Programming/JetBrains/CLion Projects/JSON",
+	"dir-top-bld" : "D:/finni/Programming/JetBrains/CLion Projects/JSON/build",
+	"dir-top-src" : "D:/finni/Programming/JetBrains/CLion Projects/JSON",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"D:\\finni\\Programming\\JetBrains\\CLion Projects\\JSON\\src",
+		"D:\\finni\\Programming\\JetBrains\\CLion Projects\\JSON\\include",
+		"D:\\finni\\Programming\\JetBrains\\CLion Projects\\JSON\\Libraries\\ChunkedList\\include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "D:/finni/Programming/JetBrains/CLion Projects/JSON/build/CMakeFiles/JSON.dir"
+}
