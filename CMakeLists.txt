@@ -5,6 +5,7 @@ set(CMAKE_CXX_STANDARD 20)
 
 include_directories(src
         include
+        Libraries/ChunkedList/include
 )
 
 set(SRC_FILES

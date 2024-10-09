@@ -52,7 +52,7 @@ build cmake_object_order_depends_target_JSON: phony || .
 build CMakeFiles/JSON.dir/src/json.cpp.obj: CXX_COMPILER__JSON_unscanned_Debug D$:/finni/Programming/JetBrains/CLion$ Projects/JSON/src/json.cpp || cmake_object_order_depends_target_JSON
   DEP_FILE = CMakeFiles\JSON.dir\src\json.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -I"D:/finni/Programming/JetBrains/CLion Projects/JSON/src" -I"D:/finni/Programming/JetBrains/CLion Projects/JSON/include"
+  INCLUDES = -I"D:/finni/Programming/JetBrains/CLion Projects/JSON/src" -I"D:/finni/Programming/JetBrains/CLion Projects/JSON/include" -I"D:/finni/Programming/JetBrains/CLion Projects/JSON/Libraries/ChunkedList/include"
   OBJECT_DIR = CMakeFiles\JSON.dir
   OBJECT_FILE_DIR = CMakeFiles\JSON.dir\src
 
